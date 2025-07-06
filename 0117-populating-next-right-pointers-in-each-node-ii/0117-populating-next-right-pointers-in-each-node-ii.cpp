@@ -33,10 +33,7 @@ public:
                 if(i == q.size()-1){
                     if(prev != nullptr) prev->next = curr;
                     curr->next = nullptr;
-                } else if(!prev){
-                    cout << "fired" << "\n";
-                } else {
-                    cout << prev->val << "->" << curr->val << "\n";
+                } else if(prev){
                     prev -> next = curr;
                 }
                 if(curr->left) q.push(curr->left);
