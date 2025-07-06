@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/lukasp-dev/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Array
+|  |
+| ------- |
+| [0057-insert-interval](https://github.com/lukasp-dev/DSA/tree/master/0057-insert-interval) |
 <!---LeetCode Topics End-->
