@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/lukasp-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0253-meeting-rooms-ii](https://github.com/lukasp-dev/DSA/tree/master/0253-meeting-rooms-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/lukasp-dev/DSA/tree/master/0218-the-skyline-problem) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/lukasp-dev/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
