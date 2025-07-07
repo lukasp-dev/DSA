@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/lukasp-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0253-meeting-rooms-ii](https://github.com/lukasp-dev/DSA/tree/master/0253-meeting-rooms-ii) |
+| [0344-reverse-string](https://github.com/lukasp-dev/DSA/tree/master/0344-reverse-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -98,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/lukasp-dev/DSA/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/lukasp-dev/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
