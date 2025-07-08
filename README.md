@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/lukasp-dev/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/lukasp-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lukasp-dev/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/lukasp-dev/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/lukasp-dev/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/lukasp-dev/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Greedy
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/lukasp-dev/DSA/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lukasp-dev/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/lukasp-dev/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/lukasp-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/lukasp-dev/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
