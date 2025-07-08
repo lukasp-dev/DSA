@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/lukasp-dev/DSA/tree/master/0057-insert-interval) |
 | [0218-the-skyline-problem](https://github.com/lukasp-dev/DSA/tree/master/0218-the-skyline-problem) |
 | [0253-meeting-rooms-ii](https://github.com/lukasp-dev/DSA/tree/master/0253-meeting-rooms-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/lukasp-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lukasp-dev/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/lukasp-dev/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/lukasp-dev/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/lukasp-dev/DSA/tree/master/0253-meeting-rooms-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/lukasp-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lukasp-dev/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Stack
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/lukasp-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0253-meeting-rooms-ii](https://github.com/lukasp-dev/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0344-reverse-string](https://github.com/lukasp-dev/DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/lukasp-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/lukasp-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/lukasp-dev/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lukasp-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -123,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/lukasp-dev/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lukasp-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/lukasp-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
