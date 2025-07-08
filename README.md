@@ -102,7 +102,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/lukasp-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/lukasp-dev/DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/lukasp-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0742-to-lower-case](https://github.com/lukasp-dev/DSA/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/lukasp-dev/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/lukasp-dev/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/lukasp-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/lukasp-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/lukasp-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
