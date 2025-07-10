@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/lukasp-dev/DSA/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/lukasp-dev/DSA/tree/master/0057-insert-interval) |
 | [0218-the-skyline-problem](https://github.com/lukasp-dev/DSA/tree/master/0218-the-skyline-problem) |
 | [0253-meeting-rooms-ii](https://github.com/lukasp-dev/DSA/tree/master/0253-meeting-rooms-ii) |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/lukasp-dev/DSA/tree/master/1677-matrix-diagonal-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/lukasp-dev/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
