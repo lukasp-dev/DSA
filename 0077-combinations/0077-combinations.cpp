@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void getCombination(int N, int K, int start, vector<vector<int>>& ret, vector<int> vec){
+    void getCombination(int N, int K, int start, vector<vector<int>>& ret, vector<int>& vec){
         if(vec.size() == K){
             ret.push_back(vec);
             return;
