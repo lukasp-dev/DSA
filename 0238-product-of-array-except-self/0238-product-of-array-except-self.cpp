@@ -1,11 +1,5 @@
 class Solution {
 public:
-    void print(vector<int>& v){
-        for(int it : v){
-            cout << it << " ";
-        }
-        cout << "\n";
-    }
 
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
@@ -27,9 +21,6 @@ public:
             right[i] = nums[i]*mult;
             mult = right[i];
         }
-
-        print(left);
-        print(right);
 
         for(int i=0; i<n; i++){
             if(i == 0){
