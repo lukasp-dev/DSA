@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/lukasp-dev/DSA/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/lukasp-dev/DSA/tree/master/0057-insert-interval) |
 | [0218-the-skyline-problem](https://github.com/lukasp-dev/DSA/tree/master/0218-the-skyline-problem) |
+| [0238-product-of-array-except-self](https://github.com/lukasp-dev/DSA/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/lukasp-dev/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/lukasp-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/lukasp-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/lukasp-dev/DSA/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/lukasp-dev/DSA/tree/master/0253-meeting-rooms-ii) |
 ## Divide and Conquer
 |  |
