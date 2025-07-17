@@ -11,7 +11,7 @@
  * @return {number}
  */
 var getMinimumDifference = function(root) {
-    let minDiff = 1e9;
+    let minDiff = Infinity;
     let prev = null;
 
     const inorder = (node) => {
