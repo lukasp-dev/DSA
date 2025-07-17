@@ -16,6 +16,7 @@ var getMinimumDifference = function(root) {
 
     const inorder = (node) => {
         if(!node) return;
+
         inorder(node.left);
         if(prev !== null){
             minDiff = Math.min(minDiff, Math.abs(node.val - prev));
