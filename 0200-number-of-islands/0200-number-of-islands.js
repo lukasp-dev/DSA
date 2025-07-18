@@ -10,6 +10,7 @@ var numIslands = function(grid) {
 
     const bfs = (i, j) => {
         const queue = [[i, j]];
+        grid[i][j] = '0';
 
         while(queue.length > 0){
             const [x, y] = queue.shift();
