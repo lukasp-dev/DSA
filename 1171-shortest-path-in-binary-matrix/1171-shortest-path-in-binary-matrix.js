@@ -4,16 +4,18 @@
  */
 var shortestPathBinaryMatrix = function(grid) {
     const n = grid.length;
-    if (grid[0][0] === 1 || grid[n - 1][n - 1] === 1) return -1;
+    if(grid[0][0] == 1 || grid[n-1][n-1] == 1){
+        return -1;
+    }
+
+    const dirs = [[0,1], [1,0], [-1, 0], [0, -1], [1, 1], [1, -1], [-1, 1], [-1, -1]];
 
     const queue = [[0, 0, 1]];
     grid[0][0] = 1;
 
-    const dirs = [[1, 0], [0, 1], [-1, 0], [0, -1], [1, 1], [1, -1], [-1, 1], [-1, -1]];
-
     while(queue.length > 0){
         const [x, y, dist] = queue.shift();
-        if(x == n-1 && y == n-1){
+        if(x === n-1 && y === n-1){
             return dist;
         }
 
