@@ -8,7 +8,6 @@ public:
             ret += ("" + to_string(token.size()) + "#");
             ret += token;
         }
-        cout << "endcoded: " << ret << "\n";
         return ret;
     }
 
