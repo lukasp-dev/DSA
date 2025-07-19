@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/lukasp-dev/DSA/tree/master/0218-the-skyline-problem) |
 | [0238-product-of-array-except-self](https://github.com/lukasp-dev/DSA/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/lukasp-dev/DSA/tree/master/0253-meeting-rooms-ii) |
+| [0271-encode-and-decode-strings](https://github.com/lukasp-dev/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/lukasp-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/lukasp-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lukasp-dev/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/lukasp-dev/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/lukasp-dev/DSA/tree/master/0125-valid-palindrome) |
+| [0271-encode-and-decode-strings](https://github.com/lukasp-dev/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/lukasp-dev/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/lukasp-dev/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lukasp-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0271-encode-and-decode-strings](https://github.com/lukasp-dev/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0359-logger-rate-limiter](https://github.com/lukasp-dev/DSA/tree/master/0359-logger-rate-limiter) |
 | [0969-number-of-recent-calls](https://github.com/lukasp-dev/DSA/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/lukasp-dev/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
