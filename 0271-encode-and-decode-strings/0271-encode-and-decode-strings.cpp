@@ -5,8 +5,7 @@ public:
     string encode(vector<string>& strs) {
         string ret;
         for(string token : strs){
-            ret += to_string(token.size());
-            ret += '#'; 
+            ret += ("" + to_string(token.size()) + "#");
             ret += token;
         }
         cout << "endcoded: " << ret << "\n";
