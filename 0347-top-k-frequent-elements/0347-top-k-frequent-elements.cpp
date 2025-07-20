@@ -2,7 +2,7 @@ class Solution {
 public:
     struct cmp{
         bool operator()(const pair<int, int>& p1, const pair<int, int>& p2) const{
-            return p1.second < p2.second;
+            return p1.second > p2.second;
         };
     };
 
@@ -18,9 +18,12 @@ public:
 
         for(auto& it : um){
             pq.push(it);
+            if(pq.size() > k){
+                pq.pop();
+            }
         }
 
-        for(int i=0; i<k; i++){
+        while(!pq.empty()){
             auto it = pq.top();
             ret.push_back(it.first);
             pq.pop();
