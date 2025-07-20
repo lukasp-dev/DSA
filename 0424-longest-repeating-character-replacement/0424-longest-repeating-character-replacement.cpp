@@ -7,8 +7,7 @@ public:
 
         while(r < s.size()){
             _max = max(_max, ++um[s[r]]);
-            int dist = r - l + 1;
-            if(dist > _max + k){
+            if(r - l + 1 > _max + k){
                 um[s[l]]--;
                 l++;
             }
