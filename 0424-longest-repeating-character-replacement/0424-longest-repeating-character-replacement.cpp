@@ -11,7 +11,7 @@ public:
                 um[s[l]]--;
                 l++;
             }
-            range = max(_max, r-l+1);
+            range = max(range, r-l+1);
             r++;
         }
 
