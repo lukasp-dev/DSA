@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/lukasp-dev/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0344-reverse-string](https://github.com/lukasp-dev/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/lukasp-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/lukasp-dev/DSA/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/lukasp-dev/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/lukasp-dev/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lukasp-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/lukasp-dev/DSA/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/lukasp-dev/DSA/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/lukasp-dev/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/lukasp-dev/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0359-logger-rate-limiter](https://github.com/lukasp-dev/DSA/tree/master/0359-logger-rate-limiter) |
 | [0383-ransom-note](https://github.com/lukasp-dev/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lukasp-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/lukasp-dev/DSA/tree/master/0567-permutation-in-string) |
 ## Queue
 |  |
 | ------- |
@@ -232,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lukasp-dev/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/lukasp-dev/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
