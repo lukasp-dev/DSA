@@ -1,22 +1,29 @@
 class Solution {
 public:
-    map<int, int> mp;
+    struct cmp{
+        bool operator()(const pair<int, int>& p1, const pair<int, int>& p2) const{
+            return p1.second < p2.second;
+        };
+    };
 
     vector<int> topKFrequent(vector<int>& nums, int k) {
+        unordered_map<int, int> um;
         vector<int> ret;
 
-        for(int num : nums){
-            mp[num]++;
+        for(int i=0; i<nums.size(); i++){
+            um[nums[i]]++;
         }
 
-        vector<pair<int, int>> vec(mp.begin(), mp.end());
+        priority_queue<pair<int, int>, vector<pair<int,int>>, cmp> pq;
 
-        sort(vec.begin(), vec.end(), [](const pair<int,int>& a, const pair<int, int>& b){
-            return a.second > b.second;
-        });
+        for(auto& it : um){
+            pq.push(it);
+        }
 
         for(int i=0; i<k; i++){
-            ret.push_back(vec[i].first);
+            auto it = pq.top();
+            ret.push_back(it.first);
+            pq.pop();
         }
 
         return ret;
