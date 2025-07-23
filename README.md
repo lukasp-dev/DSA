@@ -69,6 +69,7 @@ A collection of LeetCode questions I practiced at least once :)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lukasp-dev/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/lukasp-dev/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lukasp-dev/DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/lukasp-dev/DSA/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/lukasp-dev/DSA/tree/master/0046-permutations) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions I practiced at least once :)
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lukasp-dev/DSA/tree/master/0011-container-with-most-water) |
 | [0253-meeting-rooms-ii](https://github.com/lukasp-dev/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lukasp-dev/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sorting
@@ -118,6 +120,7 @@ A collection of LeetCode questions I practiced at least once :)
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lukasp-dev/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lukasp-dev/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/lukasp-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lukasp-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
