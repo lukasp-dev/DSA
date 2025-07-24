@@ -116,6 +116,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0094-binary-tree-inorder-traversal](https://github.com/lukasp-dev/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lukasp-dev/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lukasp-dev/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/lukasp-dev/DSA/tree/master/0155-min-stack) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/lukasp-dev/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Two Pointers
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions I practiced at least once :)
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/lukasp-dev/DSA/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/lukasp-dev/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0359-logger-rate-limiter](https://github.com/lukasp-dev/DSA/tree/master/0359-logger-rate-limiter) |
 | [0969-number-of-recent-calls](https://github.com/lukasp-dev/DSA/tree/master/0969-number-of-recent-calls) |
