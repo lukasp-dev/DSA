@@ -88,6 +88,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0347-top-k-frequent-elements](https://github.com/lukasp-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/lukasp-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lukasp-dev/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0739-daily-temperatures](https://github.com/lukasp-dev/DSA/tree/master/0739-daily-temperatures) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/lukasp-dev/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/lukasp-dev/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1677-matrix-diagonal-sum](https://github.com/lukasp-dev/DSA/tree/master/1677-matrix-diagonal-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0145-binary-tree-postorder-traversal](https://github.com/lukasp-dev/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lukasp-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/lukasp-dev/DSA/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/lukasp-dev/DSA/tree/master/0739-daily-temperatures) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/lukasp-dev/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Two Pointers
 |  |
@@ -278,4 +280,8 @@ A collection of LeetCode questions I practiced at least once :)
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lukasp-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/lukasp-dev/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
