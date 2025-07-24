@@ -168,6 +168,7 @@ A collection of LeetCode questions I practiced at least once :)
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lukasp-dev/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/lukasp-dev/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/lukasp-dev/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/lukasp-dev/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/lukasp-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lukasp-dev/DSA/tree/master/0242-valid-anagram) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions I practiced at least once :)
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lukasp-dev/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/lukasp-dev/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/lukasp-dev/DSA/tree/master/0077-combinations) |
 ## Bucket Sort
@@ -270,6 +272,7 @@ A collection of LeetCode questions I practiced at least once :)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lukasp-dev/DSA/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lukasp-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
