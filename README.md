@@ -77,6 +77,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0057-insert-interval](https://github.com/lukasp-dev/DSA/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lukasp-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lukasp-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lukasp-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lukasp-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/lukasp-dev/DSA/tree/master/0217-contains-duplicate) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0094-binary-tree-inorder-traversal](https://github.com/lukasp-dev/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lukasp-dev/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lukasp-dev/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lukasp-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/lukasp-dev/DSA/tree/master/0155-min-stack) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/lukasp-dev/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Two Pointers
@@ -269,4 +271,8 @@ A collection of LeetCode questions I practiced at least once :)
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lukasp-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lukasp-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
