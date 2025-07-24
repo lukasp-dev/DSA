@@ -28,8 +28,8 @@ public:
     vector<string> generateParenthesis(int n) {
         vector<string> ret;
         
-        string str = "(";
-        vector<int> count = {1, 0};
+        string str;
+        vector<int> count = {0, 0};
 
         go(ret, count, str, n);
         return ret;
