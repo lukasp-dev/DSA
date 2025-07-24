@@ -75,6 +75,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0046-permutations](https://github.com/lukasp-dev/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/lukasp-dev/DSA/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/lukasp-dev/DSA/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/lukasp-dev/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lukasp-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lukasp-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lukasp-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions I practiced at least once :)
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/lukasp-dev/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lukasp-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/lukasp-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/lukasp-dev/DSA/tree/master/0792-binary-search) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions I practiced at least once :)
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/lukasp-dev/DSA/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/lukasp-dev/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/lukasp-dev/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/lukasp-dev/DSA/tree/master/1677-matrix-diagonal-sum) |
