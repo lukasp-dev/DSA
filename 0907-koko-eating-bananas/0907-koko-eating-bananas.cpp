@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool check(vector<int>& piles, int k, int h){
+    bool check(vector<int>& piles, const int& k, const int& h){
         long long time = 0;
         for(int pile : piles){
             time += pile/k;
