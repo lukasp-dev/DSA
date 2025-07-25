@@ -280,13 +280,19 @@ A collection of LeetCode questions I practiced at least once :)
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/lukasp-dev/DSA/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/lukasp-dev/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lukasp-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/lukasp-dev/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lukasp-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/lukasp-dev/DSA/tree/master/0739-daily-temperatures) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lukasp-dev/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
