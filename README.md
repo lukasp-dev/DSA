@@ -79,6 +79,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lukasp-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lukasp-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lukasp-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lukasp-dev/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lukasp-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/lukasp-dev/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions I practiced at least once :)
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/lukasp-dev/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lukasp-dev/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lukasp-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/lukasp-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/lukasp-dev/DSA/tree/master/0792-binary-search) |
