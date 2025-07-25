@@ -80,6 +80,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0128-longest-consecutive-sequence](https://github.com/lukasp-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lukasp-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lukasp-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/lukasp-dev/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/lukasp-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/lukasp-dev/DSA/tree/master/0218-the-skyline-problem) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0022-generate-parentheses](https://github.com/lukasp-dev/DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/lukasp-dev/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lukasp-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/lukasp-dev/DSA/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/lukasp-dev/DSA/tree/master/0747-min-cost-climbing-stairs) |
 ## Math
 |  |
