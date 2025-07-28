@@ -6,15 +6,9 @@ public:
     }
     
     void set(string key, string value, int timestamp) {
-        if(mp.find(key) == mp.end()){
-            vector<pair<int, string>>  vec;
-            vec.push_back({timestamp, value});
-            mp[key] = vec; 
-        } else{
-            mp[key].push_back({timestamp, value});
-        }
+        mp[key].push_back({timestamp, value});
     }
-    
+
     string get(string key, int timestamp) {
         if(mp.find(key) == mp.end()) return "";
         else{
