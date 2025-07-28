@@ -188,6 +188,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0424-longest-repeating-character-replacement](https://github.com/lukasp-dev/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/lukasp-dev/DSA/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/lukasp-dev/DSA/tree/master/0742-to-lower-case) |
+| [1023-time-based-key-value-store](https://github.com/lukasp-dev/DSA/tree/master/1023-time-based-key-value-store) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/lukasp-dev/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/lukasp-dev/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
@@ -207,6 +208,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0387-first-unique-character-in-a-string](https://github.com/lukasp-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/lukasp-dev/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/lukasp-dev/DSA/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/lukasp-dev/DSA/tree/master/1023-time-based-key-value-store) |
 ## Queue
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0349-intersection-of-two-arrays](https://github.com/lukasp-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/lukasp-dev/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/lukasp-dev/DSA/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/lukasp-dev/DSA/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0271-encode-and-decode-strings](https://github.com/lukasp-dev/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0359-logger-rate-limiter](https://github.com/lukasp-dev/DSA/tree/master/0359-logger-rate-limiter) |
 | [0969-number-of-recent-calls](https://github.com/lukasp-dev/DSA/tree/master/0969-number-of-recent-calls) |
+| [1023-time-based-key-value-store](https://github.com/lukasp-dev/DSA/tree/master/1023-time-based-key-value-store) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/lukasp-dev/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
