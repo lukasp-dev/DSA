@@ -66,6 +66,7 @@ A collection of LeetCode questions I practiced at least once :)
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/lukasp-dev/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/lukasp-dev/DSA/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/lukasp-dev/DSA/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -316,4 +317,5 @@ A collection of LeetCode questions I practiced at least once :)
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/lukasp-dev/DSA/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/lukasp-dev/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
