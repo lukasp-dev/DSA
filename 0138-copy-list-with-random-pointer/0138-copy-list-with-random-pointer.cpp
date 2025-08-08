@@ -43,15 +43,14 @@ public:
         }
 
         ptr = head;
-        while (ptr) {
-            if (ptr->random) {
+        while(ptr){
+            if(ptr->random){
                 mp[ptr]->random = mp[ptr->random];
-            } else {
-                mp[ptr]->random = nullptr;
             }
+
             ptr = ptr->next;
         }
-        
+
         return copy_head;
     }
 };
