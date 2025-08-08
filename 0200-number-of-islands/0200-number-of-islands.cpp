@@ -8,20 +8,15 @@ public:
         q.push({y, x});
 
         while(!q.empty()){
-            int size = q.size();
+            pair<int, int> curr = q.front(); q.pop();
+            for(int i=0; i<4; i++){
+                int ny = curr.first + dy[i];
+                int nx = curr.second + dx[i];
 
-            for(int i=0; i<size; i++){
-                pair<int, int> curr = q.front(); q.pop();
-
-                for(int i=0; i<4; i++){
-                    int ny = curr.first + dy[i];
-                    int nx = curr.second + dx[i];
-
-                    if(ny < 0 || ny >=m || nx < 0 || nx >= n) continue;
-                    if(!visited[ny][nx] && grid[ny][nx] == '1'){
-                        visited[ny][nx] = 1;
-                        q.push({ny, nx});
-                    }
+                if(ny < 0 || ny >=m || nx < 0 || nx >= n) continue;
+                if(!visited[ny][nx] && grid[ny][nx] == '1'){
+                    visited[ny][nx] = 1;
+                    q.push({ny, nx});
                 }
             }
         }
