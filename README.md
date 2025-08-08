@@ -29,6 +29,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0199-binary-tree-right-side-view](https://github.com/lukasp-dev/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lukasp-dev/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/lukasp-dev/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lukasp-dev/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/lukasp-dev/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/lukasp-dev/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0199-binary-tree-right-side-view](https://github.com/lukasp-dev/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lukasp-dev/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/lukasp-dev/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lukasp-dev/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/lukasp-dev/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Linked List
@@ -284,10 +286,12 @@ A collection of LeetCode questions I practiced at least once :)
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lukasp-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/lukasp-dev/DSA/tree/master/0547-number-of-provinces) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/lukasp-dev/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/lukasp-dev/DSA/tree/master/0547-number-of-provinces) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/lukasp-dev/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Sliding Window
 |  |
