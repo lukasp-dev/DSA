@@ -8,7 +8,7 @@ public:
         int totalIdx = 0;
 
         // 1) 전체 길이 구하기
-        while (ptr != nullptr) {
+        while (ptr) {
             ptr = ptr->next;
             totalIdx++;
         }
