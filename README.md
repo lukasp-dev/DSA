@@ -31,6 +31,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lukasp-dev/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/lukasp-dev/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lukasp-dev/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/lukasp-dev/DSA/tree/master/0695-max-area-of-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/lukasp-dev/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/lukasp-dev/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
@@ -62,6 +63,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lukasp-dev/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/lukasp-dev/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lukasp-dev/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/lukasp-dev/DSA/tree/master/0695-max-area-of-island) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/lukasp-dev/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Linked List
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0347-top-k-frequent-elements](https://github.com/lukasp-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/lukasp-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lukasp-dev/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0695-max-area-of-island](https://github.com/lukasp-dev/DSA/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/lukasp-dev/DSA/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/lukasp-dev/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/lukasp-dev/DSA/tree/master/0792-binary-search) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0036-valid-sudoku](https://github.com/lukasp-dev/DSA/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/lukasp-dev/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/lukasp-dev/DSA/tree/master/0695-max-area-of-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/lukasp-dev/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/lukasp-dev/DSA/tree/master/1677-matrix-diagonal-sum) |
 ## Backtracking
@@ -291,6 +295,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0128-longest-consecutive-sequence](https://github.com/lukasp-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/lukasp-dev/DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/lukasp-dev/DSA/tree/master/0695-max-area-of-island) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/lukasp-dev/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
