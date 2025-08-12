@@ -33,6 +33,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0637-average-of-levels-in-binary-tree](https://github.com/lukasp-dev/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/lukasp-dev/DSA/tree/master/0695-max-area-of-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/lukasp-dev/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1380-number-of-closed-islands](https://github.com/lukasp-dev/DSA/tree/master/1380-number-of-closed-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/lukasp-dev/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0547-number-of-provinces](https://github.com/lukasp-dev/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lukasp-dev/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/lukasp-dev/DSA/tree/master/0695-max-area-of-island) |
+| [1380-number-of-closed-islands](https://github.com/lukasp-dev/DSA/tree/master/1380-number-of-closed-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/lukasp-dev/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Linked List
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0792-binary-search](https://github.com/lukasp-dev/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/lukasp-dev/DSA/tree/master/0907-koko-eating-bananas) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/lukasp-dev/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1380-number-of-closed-islands](https://github.com/lukasp-dev/DSA/tree/master/1380-number-of-closed-islands) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/lukasp-dev/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1677-matrix-diagonal-sum](https://github.com/lukasp-dev/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/lukasp-dev/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/lukasp-dev/DSA/tree/master/0695-max-area-of-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/lukasp-dev/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1380-number-of-closed-islands](https://github.com/lukasp-dev/DSA/tree/master/1380-number-of-closed-islands) |
 | [1677-matrix-diagonal-sum](https://github.com/lukasp-dev/DSA/tree/master/1677-matrix-diagonal-sum) |
 ## Backtracking
 |  |
@@ -296,6 +300,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/lukasp-dev/DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/lukasp-dev/DSA/tree/master/0695-max-area-of-island) |
+| [1380-number-of-closed-islands](https://github.com/lukasp-dev/DSA/tree/master/1380-number-of-closed-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/lukasp-dev/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
