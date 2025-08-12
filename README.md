@@ -18,6 +18,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0199-binary-tree-right-side-view](https://github.com/lukasp-dev/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lukasp-dev/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lukasp-dev/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/lukasp-dev/DSA/tree/master/0772-construct-quad-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0695-max-area-of-island](https://github.com/lukasp-dev/DSA/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/lukasp-dev/DSA/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/lukasp-dev/DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0772-construct-quad-tree](https://github.com/lukasp-dev/DSA/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/lukasp-dev/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/lukasp-dev/DSA/tree/master/0907-koko-eating-bananas) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/lukasp-dev/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions I practiced at least once :)
 | ------- |
 | [0218-the-skyline-problem](https://github.com/lukasp-dev/DSA/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/lukasp-dev/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0772-construct-quad-tree](https://github.com/lukasp-dev/DSA/tree/master/0772-construct-quad-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions I practiced at least once :)
 | [0074-search-a-2d-matrix](https://github.com/lukasp-dev/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/lukasp-dev/DSA/tree/master/0695-max-area-of-island) |
+| [0772-construct-quad-tree](https://github.com/lukasp-dev/DSA/tree/master/0772-construct-quad-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/lukasp-dev/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/lukasp-dev/DSA/tree/master/1380-number-of-closed-islands) |
 | [1677-matrix-diagonal-sum](https://github.com/lukasp-dev/DSA/tree/master/1677-matrix-diagonal-sum) |
