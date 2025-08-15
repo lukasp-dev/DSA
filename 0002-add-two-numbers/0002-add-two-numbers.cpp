@@ -36,7 +36,6 @@ public:
 
         for(int i = 0; i<second.size(); i++){
             val = (first[i] + second[i])%10;
-            cout << first[i] << " : " << second[i] << "\n";
             ptr -> next = new ListNode((val + carry)%10);
             ptr = ptr->next;
             carry = (first[i] + second[i] + carry)/10;
