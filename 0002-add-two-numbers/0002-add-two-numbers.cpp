@@ -11,40 +11,29 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        vector<int> first;
-        vector<int> second;
+        ListNode* root = new ListNode();
+        ListNode* ptr = root;
 
-        while(l1 != nullptr){
-            first.push_back(l1->val);
-            l1 = l1->next;
-        }
+        int carry = 0;
 
-        while(l2 != nullptr){
-            second.push_back(l2->val);
-            l2 = l2->next;
-        }
+        while(l1 || l2 || carry){
+            int sum = carry;
 
-        if(first.size() > second.size()){
-            second.resize(first.size());
-        }else if(first.size() < second.size()){
-            first.resize(second.size());
-        }
+            if(l1){
+                sum += l1->val;
+                l1 = l1->next;
+            }
 
-        int val=0; int carry=0;
-        ListNode* ret = new ListNode();
-        ListNode* ptr = ret;
+            if(l2){
+                sum += l2->val;
+                l2 = l2->next;
+            }
 
-        for(int i = 0; i<second.size(); i++){
-            val = (first[i] + second[i])%10;
-            ptr -> next = new ListNode((val + carry)%10);
+            ptr->next = new ListNode(sum%10);
+            carry = sum/10;
             ptr = ptr->next;
-            carry = (first[i] + second[i] + carry)/10;
         }
 
-        if(carry){
-            ptr -> next = new ListNode(carry);
-        }
-
-        return ret->next;
+        return root->next;
     }
 };
