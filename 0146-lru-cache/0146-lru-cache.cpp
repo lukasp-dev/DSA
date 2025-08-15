@@ -1,7 +1,7 @@
 class LRUCache {
 public:
-    unordered_map<int, int> cache;
-    vector<int> list;
+    unordered_map<int, pair<int, list<int>::iterator>> cache;
+    list<int> order;
     int capacity;
 
     LRUCache(int capacity) {
@@ -10,29 +10,26 @@ public:
     
     int get(int key) {
         if(cache.find(key) != cache.end()){
-            auto it = find(list.begin(), list.end(), key);
-            list.erase(it, it+1);
-            list.push_back(key);
-            return cache[key];
+            order.erase(cache[key].second);
+            order.push_back(key);
+            cache[key].second = --order.end();
+            return cache[key].first;
         }
         return -1;
     }
     
     void put(int key, int value) {
         if(cache.find(key) != cache.end()){
-            auto it = find(list.begin(), list.end(), key);
-            list.erase(it, it+1);
+            order.erase(cache[key].second);
         }else{
-            if(list.size() == capacity){
-                int target = list[0];
-                cache.erase(target);
-
-                list.erase(list.begin(), list.begin() + 1);
+            if(order.size() == capacity){
+                cache.erase(order.front());
+                order.pop_front();
             }
         }
-        list.push_back(key);
+        order.push_back(key);
 
-        cache[key] = value;
+        cache[key] = {value, --order.end()};
     }
 };
 
