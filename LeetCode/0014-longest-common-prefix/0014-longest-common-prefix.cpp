@@ -1,0 +1,19 @@
+class Solution {
+public:
+    string longestCommonPrefix(vector<string>& strs) {
+        string prefix = "";
+        string first = strs[0];
+
+        for(int i=0; i<first.size(); i++){
+            char cmp = first[i];
+            for(string str : strs){
+                if(cmp != str[i]){
+                    return prefix;
+                }
+            }
+            prefix += cmp;
+        }
+
+        return prefix;
+    }
+};
