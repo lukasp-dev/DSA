@@ -7,6 +7,7 @@ A collection of LeetCode questions I practiced at least once :)
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/lukasp-dev/DSA/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/lukasp-dev/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/lukasp-dev/DSA/tree/master/0577-employee-bonus) |
 | [1280-students-and-examinations](https://github.com/lukasp-dev/DSA/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/lukasp-dev/DSA/tree/master/1661-average-time-of-process-per-machine) |
