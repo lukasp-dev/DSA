@@ -12,4 +12,16 @@ A collection of LeetCode questions I practiced at least once :)
 | [1280-students-and-examinations](https://github.com/lukasp-dev/DSA/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/lukasp-dev/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/lukasp-dev/DSA/tree/master/1661-average-time-of-process-per-machine) |
+## Tree
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/lukasp-dev/DSA/tree/master/0437-path-sum-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/lukasp-dev/DSA/tree/master/0437-path-sum-iii) |
+## Binary Tree
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/lukasp-dev/DSA/tree/master/0437-path-sum-iii) |
 <!---LeetCode Topics End-->
