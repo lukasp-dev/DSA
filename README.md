@@ -16,12 +16,19 @@ A collection of LeetCode questions I practiced at least once :)
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/lukasp-dev/DSA/tree/master/0437-path-sum-iii) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/lukasp-dev/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/lukasp-dev/DSA/tree/master/0437-path-sum-iii) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/lukasp-dev/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/lukasp-dev/DSA/tree/master/0437-path-sum-iii) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/lukasp-dev/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/lukasp-dev/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
