@@ -3,13 +3,21 @@ vector<int> dy = {-1, 0, 1, 0};
 vector<int> dx = {0, 1, 0, -1};
 
 public:
-    void dfs(vector<vector<char>>& grid, vector<vector<int>>& visited, int y, int x, int m, int n){
+    void bfs(vector<vector<char>>& grid, vector<vector<int>>& visited, int y, int x, int m, int n){
+        queue<pair<int, int>> q;
         visited[y][x] = 1;
+        q.push({y, x});
 
-        for(int i=0; i<4; ++i){
-            int ny = y + dy[i], nx = x + dx[i];
-            if(ny < 0 || ny >= m || nx < 0 || nx >= n || visited[ny][nx] || grid[ny][nx] == '0') continue;
-            dfs(grid, visited, ny, nx, m, n);
+        while(!q.empty()){
+            auto [cy, cx] = q.front(); q.pop();
+            for(int i=0; i<4; ++i){
+                int ny = cy + dy[i];
+                int nx = cx + dx[i];
+
+                if(ny < 0 || ny >= m || nx < 0 || nx >= n || visited[ny][nx] || grid[ny][nx] == '0') continue;
+                visited[ny][nx] = 1; 
+                q.push({ny, nx});
+            }
         }
     }
     
@@ -21,7 +29,7 @@ public:
         for(int i=0; i<m; ++i){
             for(int j=0; j<n; ++j){
                 if(grid[i][j] == '1' && !visited[i][j]){
-                    dfs(grid, visited, i, j, m, n);
+                    bfs(grid, visited, i, j, m, n);
                     ++count;
                 }
             }
