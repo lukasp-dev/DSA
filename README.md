@@ -20,6 +20,7 @@ A collection of LeetCode questions I practiced at least once :)
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/lukasp-dev/DSA/tree/master/0437-path-sum-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/lukasp-dev/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
@@ -47,4 +48,20 @@ A collection of LeetCode questions I practiced at least once :)
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/lukasp-dev/DSA/tree/master/0146-lru-cache) |
+## Array
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/lukasp-dev/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
