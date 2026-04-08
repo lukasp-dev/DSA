@@ -31,4 +31,20 @@ A collection of LeetCode questions I practiced at least once :)
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/lukasp-dev/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/lukasp-dev/DSA/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/lukasp-dev/DSA/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/lukasp-dev/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/lukasp-dev/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
