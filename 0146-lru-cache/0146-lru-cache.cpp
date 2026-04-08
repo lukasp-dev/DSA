@@ -17,9 +17,7 @@ public:
     
     void put(int key, int value) {
         if(lookup.count(key)){
-            // 1. 위치를 맨 뒤(최신)로 이동
             cache.splice(cache.end(), cache, lookup[key]);
-            // 2. 값 업데이트 (lookup[key]는 여전히 해당 노드를 가리킴)
             lookup[key]->second = value;
         }else{
             if(cache.size() == capacity){
